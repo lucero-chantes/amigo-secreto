@@ -22,5 +22,5 @@ Abre la aplicacion en tu navegador y observaras lo siguiente
 
 
 
-Espero que les haya divertido este Juego, puedes uarlo las veces que quieras
+Espero que les haya divertido este Juego, puedes usarlo las veces que quieras
 
